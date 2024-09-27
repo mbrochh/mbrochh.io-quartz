@@ -191,8 +191,7 @@ add this at the end:
 line-length = 80
 ```
 
-Then create a folder `.vscode` and inside that folder create a file 
-`settings.json`. Paste this into the file:
+Then create a folder `.vscode` and inside that folder create a file `settings.json`. Paste this into the file and don't forget to save the file.
 
 ```json
 {
